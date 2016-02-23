@@ -1,0 +1,26 @@
+body {
+  font: 15px times, sans-serif;
+  color: white;
+  background-image: url("http://widewallpaper.info/wp-content/uploads/2015/11/Nature-HD-Wallpaper-1080p.jpg");
+}
+
+h2 {
+  font-size: 120%;
+}
+
+h3 {
+  font-size: 110%;
+}
+
+
+pre {
+  font: 15px "Courier New", Courier, monospace;
+  background-color: lightblue;
+}
+
+canvas {
+  position: absolute;
+  left: 0;
+  top: 0;
+ z-index: -1;
+}
